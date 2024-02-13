@@ -1,4 +1,0 @@
-KNN
-Regression logistique
-Random forest
-SVM
